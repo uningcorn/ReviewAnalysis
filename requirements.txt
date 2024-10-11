@@ -4,3 +4,4 @@ numpy
 konlpy
 matplotlib
 plotly
+Okt
